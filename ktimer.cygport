@@ -1,7 +1,7 @@
 inherit kf5
 
 NAME="ktimer"
-VERSION=16.08.3
+VERSION=17.04.3
 RELEASE=1
 CATEGORY="KDE"
 SUMMARY="KDE program scheduler"
